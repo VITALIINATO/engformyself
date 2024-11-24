@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lyrics</title>
+  <link rel="stylesheet" href="styles.css"> <!-- Подключаем CSS -->
+</head>
+<body>
+
+  <!-- Текст стихотворения с кликабельными фразами -->
+  <div id="poem">Loading poem...</div>
+
+  <!-- Перевод стихотворения -->
+
+
+  <!-- Кнопки управления -->
+  <div class="buttons">
+    <button id="prevButton" class="control-button" onclick="previousPoem()">Previous</button>
+    <button id="playPauseButton" class="control-button pause" onclick="togglePlayPause()">Pause</button>
+    <button id="nextButton" class="control-button" onclick="nextPoem()">Next</button>
+  </div>
+
+  <!-- Прогресс-бар -->
+  <audio id="audio"></audio>
+  <div id="progress-container">
+    <input id="progress-bar" type="range" min="0" max="100" value="0">
+  </div>
+
+  <!-- Подключаем внешний JavaScript файл для данных стихотворений -->
+  <script src="poems.js"></script>
+
+  <!-- Подключаем основной JavaScript файл -->
+  <script src="script.js"></script>
+</body>
+</html>
