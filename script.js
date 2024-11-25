@@ -77,3 +77,10 @@ function playAudio() {
   isPlaying = true;
   updatePlayPauseButton();
 }
+
+audio.addEventListener("ended", () => {
+  isPlaying = false;
+  updatePlayPauseButton();
+  nextPoem(); // Переход к следующему стиху и песне после завершения текущей
+});
+
