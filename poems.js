@@ -188,6 +188,23 @@ audio: "10.3.mp3"
   audio: "11.3.mp3"
                 
   },
+
+  // Don't speak
+{
+  english: "He deals the cards as a meditation<br>And those he plays never suspect<br>He doesn't play for the money he wins<br>He don't play for respect<br><br>He deals the cards to find the answer<br>The sacred geometry of chance<br>The hidden law of a probable outcome<br>The numbers lead a dance",
+  audio: "12.1.mp3"
+  },
+  
+  {
+  english: "Don't speak, I know just what you're sayin'<br>So please stop explainin'<br>Don't tell me 'cause it hurts<br>Don't speak, I know what you're thinkin'<br>I don't need your reasons<br>Don't tell me 'cause it hurts",
+  audio: "12.2.mp3"
+  },
+  
+  {
+  english: "Our memories, well, they can be inviting<br>But some are altogether mighty frightening<br>As we die, both you and I<br>With my head in my hands, I sit and cry",
+  audio: "13.3.mp3"
+                
+  },
             
             
 ];
