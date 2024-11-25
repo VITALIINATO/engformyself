@@ -126,7 +126,7 @@ const poems = [
   audio: "8.1.mp3"
 },
 {
-  english: "I've been left in the dark, standing cold in the night<br>Memories of your taste, I've been holding on tight<br>Falling apart and I'm living a lie<br>All of this time, I've been loving a liar<br><br>Pulled me in with your words so sweet<br>Every time I ignore the sign<br>Redemption's mine on the day I leave<br>Falling for you was my only crime",
+  english: "I've been left in the dark, standing cold in the night<br>Memories of your taste, I've been holding on tight<br>Falling apart and I'm living a lie<br>All of this time, I've been loving a liar",
   russian: "Я осталась в темноте, стоя в холоде ночи<br>Воспоминания о твоем вкусе, я крепко держалась<br>Разваливаюсь на части и живу во лжи<br>Все это время я любила лжеца<br><br>Ты затянул меня своими сладкими словами<br>Каждый раз, когда я игнорирую знак<br>Искупление ждет меня в тот день, когда я уйду<br>Влюбиться в тебя было моим единственным преступлением",
   audio: "8.2.mp3"
 },
@@ -191,7 +191,7 @@ audio: "10.3.mp3"
 
   // Don't speak
 {
-  english: "He deals the cards as a meditation<br>And those he plays never suspect<br>He doesn't play for the money he wins<br>He don't play for respect<br><br>He deals the cards to find the answer<br>The sacred geometry of chance<br>The hidden law of a probable outcome<br>The numbers lead a dance",
+  english: "You and me, we used to be together<br>Every day together, always<br>I really feel that I'm losin' my best friend<br>I can't believe this could be the end<br>It looks as though you're lettin' go<br>And if it's real, well, I don't want to know",
   audio: "12.1.mp3"
   },
   
