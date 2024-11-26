@@ -213,7 +213,7 @@ audio: "10.3.mp3"
   },
   
   {
-  english: "Don't speak, I know just what you're sayin'<br>So 'Cause I will be there<br>And you will be there<br>We'll find each other in the dark<br>And you will see<br>And I'll see you too<br>'Cause we'll be together in the dark<br>'Cause if it's coming for you<br>Then it's coming for me<br>'Cause I will be there<br>'Cause we need each other in the dark<br>And if it terrifies you<br>Then it terrifies me<br>'Cause I will be there<br>So we've got each other in the darkplease stop explainin'<br>Don't tell me 'cause it hurts<br>Don't speak, I know what you're thinkin'<br>I don't need your reasons<br>Don't tell me 'cause it hurts",
+  english: "'Cause I will be there<br>And you will be there<br>We'll find each other in the dark<br>And you will see<br>And I'll see you too<br>'Cause we'll be together in the dark<br><br>'Cause if it's coming for you<br>Then it's coming for me<br>'Cause I will be there<br>'Cause we need each other in the dark<br>And if it terrifies you<br>Then it terrifies me<br>'Cause I will be there<br>So we've got each other in the dark",
   audio: "13.2.mp3"
   },
   
