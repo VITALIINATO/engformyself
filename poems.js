@@ -202,6 +202,23 @@ audio: "10.3.mp3"
   
   {
   english: "Our memories, well, they can be inviting<br>But some are altogether mighty frightening<br>As we die, both you and I<br>With my head in my hands, I sit and cry",
+  audio: "12.3.mp3"
+                
+  },
+
+    // In the dark
+{
+  english: "When it seems Like the world around you's breaking<br>And it feels Like there's no one else around you<br>And it's quiet There's a silence in the darkness<br>And it sounds Like the carnival is over<br><br>As you walk In the crowded empty spaces<br>And you stare At the emptiness around you<br>You wanna go To the city and the bright lights<br>Get away From the sinners that surround you",
+  audio: "13.1.mp3"
+  },
+  
+  {
+  english: "Don't speak, I know just what you're sayin'<br>So 'Cause I will be there<br>And you will be there<br>We'll find each other in the dark<br>And you will see<br>And I'll see you too<br>'Cause we'll be together in the dark<br>'Cause if it's coming for you<br>Then it's coming for me<br>'Cause I will be there<br>'Cause we need each other in the dark<br>And if it terrifies you<br>Then it terrifies me<br>'Cause I will be there<br>So we've got each other in the darkplease stop explainin'<br>Don't tell me 'cause it hurts<br>Don't speak, I know what you're thinkin'<br>I don't need your reasons<br>Don't tell me 'cause it hurts",
+  audio: "13.2.mp3"
+  },
+  
+  {
+  english: "As I look into the sky<br>There's sparks bright as ice<br>You want me to take you over there<br>I want you to stay with me<br>'Cause you're not the only one<br>The only one<br>No, no Don't worry<br>You're not the only one",
   audio: "13.3.mp3"
                 
   },
