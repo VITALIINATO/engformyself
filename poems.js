@@ -222,6 +222,28 @@ audio: "10.3.mp3"
   audio: "13.3.mp3"
                 
   },
+
+    // In the end
+{
+  english: "It starts with one thing<br>I don't know why<br>It doesn't even matter how hard you try<br>Keep that in mind<br>I designed this rhyme<br>To explain in due time<br><br>All I know<br>Time is a valuable thing<br>Watch it fly by as the pendulum swings<br>Watch it count down to the end of the day<br>The clock ticks life away",
+  audio: "14.1.mp3"
+  },
+  
+  {
+  english: "'It's so unreal<br>Didn't look out below<br>Watch the time go right out the window<br>Trying to hold on, didn't even know<br>I wasted it all just to watch you go<br><br>I kept everything inside<br>And even though I tried, it all fell apart<br>What it meant to me<br>Will eventually be a memory of a time when",
+  audio: "14.2.mp3"
+  },
+  
+  {
+  english: "I tried so hard<br>And got so far<br>But in the end<br>It doesn't even matter<br>I had to fall<br>To lose it all<br>But in the end<br>It doesn't even matter",
+  audio: "14.3.mp3"
+                
+  },
+  {
+    english: "One thing, I don't know why<br>It doesn't even matter how hard you try<br>Keep that in mind<br>I designed this rhyme<br>To remind myself how<br>I tried so hard<br>In spite of the way you were mocking me<br>Acting like I was part of your property<br>Remembering all the times you fought with me<br>I'm surprised it got so far<br><br>Things aren't the way they were before<br>You wouldn't even recognize me anymore<br>Not that you knew me back then<br>But it all comes back to me in the end<br>You kept everything inside<br>And even though I tried, it all fell apart<br>What it meant to me will eventually be a memory of a time when",
+    audio: "14.4.mp3"
+                  
+    },
             
             
 ];
