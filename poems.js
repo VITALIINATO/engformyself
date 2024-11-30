@@ -143,8 +143,8 @@ const poems = [
 },
 
 {
-  english: "And then she'd say it's OK<br>I got lost on the way<br>But I'm a Supergirl<br>and Supergirls don't cry<br>And she'd say it's allright<br>I got home late last night<br>But I'm a Supergirl<br>and Supergirls just fly<br>",
-  russian: "Она скажет: все в порядке, я сбилась с пути,<br>Но я супердевушка, а супердевушки не плачут<br>И объяснит: все нормально, вчера я добралась до дома поздно вечером,<br>Но я супердевушка, а супердевушки парят над суетой",
+  english: "And she'd say it's allright<br>I got home late last night<br>But I'm a Supergirl<br>and Supergirls just fly<br>",
+  russian: "И объяснит: все нормально, вчера я добралась до дома поздно вечером,<br>Но я супердевушка, а супердевушки парят над суетой",
   audio: "9.2.mp3"
 },
 
