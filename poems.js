@@ -244,7 +244,17 @@ audio: "10.3.mp3"
     audio: "14.4.mp3"
                   
     },
-            
+   // Aerials
+    {
+    english: "Life is a waterfall<br>We're one in the river<br>And one again after the fall<br>Swimming through the void, we hear the word<br>We lose ourselves, but we find it all<br><br>'Cause we are the ones that wanna play<br>Always wanna go, but you never wanna stay<br>And we are the ones that wanna choose<br>Always wanna play but you never wanna lose",
+    audio: "15.1.mp3"
+    },
+    
+    {
+    english: "Life is a waterfall<br>We drink from the river<br>Then we turn around and put up our walls<br>Swimming through the void, we hear the word<br>We lose ourselves, but we find it all<br><br>'Cause we are the ones that wanna play<br>Always wanna go, but you never wanna stay<br>And we are the ones that wanna choose<br>Always wanna play but you never wanna lose",
+    audio: "15.2.mp3"
+    },
+              
             
 ];
 
